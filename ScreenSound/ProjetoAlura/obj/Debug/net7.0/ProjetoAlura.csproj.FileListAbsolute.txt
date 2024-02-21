@@ -1,0 +1,14 @@
+C:\Users\Tomaz\source\repos\ProjetoAlura\ProjetoAlura\bin\Debug\net7.0\ProjetoAlura.exe
+C:\Users\Tomaz\source\repos\ProjetoAlura\ProjetoAlura\bin\Debug\net7.0\ProjetoAlura.deps.json
+C:\Users\Tomaz\source\repos\ProjetoAlura\ProjetoAlura\bin\Debug\net7.0\ProjetoAlura.runtimeconfig.json
+C:\Users\Tomaz\source\repos\ProjetoAlura\ProjetoAlura\bin\Debug\net7.0\ProjetoAlura.dll
+C:\Users\Tomaz\source\repos\ProjetoAlura\ProjetoAlura\bin\Debug\net7.0\ProjetoAlura.pdb
+C:\Users\Tomaz\source\repos\ProjetoAlura\ProjetoAlura\obj\Debug\net7.0\ProjetoAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomaz\source\repos\ProjetoAlura\ProjetoAlura\obj\Debug\net7.0\ProjetoAlura.AssemblyInfoInputs.cache
+C:\Users\Tomaz\source\repos\ProjetoAlura\ProjetoAlura\obj\Debug\net7.0\ProjetoAlura.AssemblyInfo.cs
+C:\Users\Tomaz\source\repos\ProjetoAlura\ProjetoAlura\obj\Debug\net7.0\ProjetoAlura.csproj.CoreCompileInputs.cache
+C:\Users\Tomaz\source\repos\ProjetoAlura\ProjetoAlura\obj\Debug\net7.0\ProjetoAlura.dll
+C:\Users\Tomaz\source\repos\ProjetoAlura\ProjetoAlura\obj\Debug\net7.0\refint\ProjetoAlura.dll
+C:\Users\Tomaz\source\repos\ProjetoAlura\ProjetoAlura\obj\Debug\net7.0\ProjetoAlura.pdb
+C:\Users\Tomaz\source\repos\ProjetoAlura\ProjetoAlura\obj\Debug\net7.0\ProjetoAlura.genruntimeconfig.cache
+C:\Users\Tomaz\source\repos\ProjetoAlura\ProjetoAlura\obj\Debug\net7.0\ref\ProjetoAlura.dll
