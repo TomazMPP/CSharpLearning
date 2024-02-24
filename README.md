@@ -9,4 +9,6 @@ C#/.NET Projects Repository that compiles small projects I've developed, as well
 <li><a href="JogoNumeroAleatorio">Jogo Número Aleatorio</a></li>
 <li><a href="EstoqueLoja">EstoqueLoja (exercício curso Alura - Prática de Dictionary + Lista)</a></li>
   <li><a href="ScreenSound">ScreenSound</a></li>
+  <li><a href="ContaBancariaClass">ContaBancaria Class (POO)</a></li>
+  <li><a href="ScreenSound%20V2%20(Orientado%20a%20Objetos)">ScreenSound V2 (Orientado a Objetos)</a></li>
 </ol>
