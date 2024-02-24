@@ -7,5 +7,6 @@ C#/.NET Projects Repository that compiles small projects I've developed, as well
 ### Sumário
 <ol>
 <li><a href="JogoNumeroAleatorio">Jogo Número Aleatorio</a></li>
+<li><a href="EstoqueLoja">EstoqueLoja (exercício curso Alura - Prática de Dictionary + Lista)</a></li>
   <li><a href="ScreenSound">ScreenSound</a></li>
 </ol>

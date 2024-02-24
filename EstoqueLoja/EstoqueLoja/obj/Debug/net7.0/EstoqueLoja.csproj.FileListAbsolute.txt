@@ -1,0 +1,14 @@
+C:\Users\Tomaz\source\repos\EstoqueLoja\EstoqueLoja\bin\Debug\net7.0\EstoqueLoja.exe
+C:\Users\Tomaz\source\repos\EstoqueLoja\EstoqueLoja\bin\Debug\net7.0\EstoqueLoja.deps.json
+C:\Users\Tomaz\source\repos\EstoqueLoja\EstoqueLoja\bin\Debug\net7.0\EstoqueLoja.runtimeconfig.json
+C:\Users\Tomaz\source\repos\EstoqueLoja\EstoqueLoja\bin\Debug\net7.0\EstoqueLoja.dll
+C:\Users\Tomaz\source\repos\EstoqueLoja\EstoqueLoja\bin\Debug\net7.0\EstoqueLoja.pdb
+C:\Users\Tomaz\source\repos\EstoqueLoja\EstoqueLoja\obj\Debug\net7.0\EstoqueLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomaz\source\repos\EstoqueLoja\EstoqueLoja\obj\Debug\net7.0\EstoqueLoja.AssemblyInfoInputs.cache
+C:\Users\Tomaz\source\repos\EstoqueLoja\EstoqueLoja\obj\Debug\net7.0\EstoqueLoja.AssemblyInfo.cs
+C:\Users\Tomaz\source\repos\EstoqueLoja\EstoqueLoja\obj\Debug\net7.0\EstoqueLoja.csproj.CoreCompileInputs.cache
+C:\Users\Tomaz\source\repos\EstoqueLoja\EstoqueLoja\obj\Debug\net7.0\EstoqueLoja.dll
+C:\Users\Tomaz\source\repos\EstoqueLoja\EstoqueLoja\obj\Debug\net7.0\refint\EstoqueLoja.dll
+C:\Users\Tomaz\source\repos\EstoqueLoja\EstoqueLoja\obj\Debug\net7.0\EstoqueLoja.pdb
+C:\Users\Tomaz\source\repos\EstoqueLoja\EstoqueLoja\obj\Debug\net7.0\EstoqueLoja.genruntimeconfig.cache
+C:\Users\Tomaz\source\repos\EstoqueLoja\EstoqueLoja\obj\Debug\net7.0\ref\EstoqueLoja.dll
