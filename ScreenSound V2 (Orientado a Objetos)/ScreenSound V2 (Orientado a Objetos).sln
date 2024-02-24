@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSound V2 (Orientado a Objetos)", "ScreenSound V2 (Orientado a Objetos)\ScreenSound V2 (Orientado a Objetos).csproj", "{DC97124A-708F-42F2-94B7-0936D3D38812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC97124A-708F-42F2-94B7-0936D3D38812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC97124A-708F-42F2-94B7-0936D3D38812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC97124A-708F-42F2-94B7-0936D3D38812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC97124A-708F-42F2-94B7-0936D3D38812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D6B299F-5620-4179-A621-B4447046A7B2}
+	EndGlobalSection
+EndGlobal

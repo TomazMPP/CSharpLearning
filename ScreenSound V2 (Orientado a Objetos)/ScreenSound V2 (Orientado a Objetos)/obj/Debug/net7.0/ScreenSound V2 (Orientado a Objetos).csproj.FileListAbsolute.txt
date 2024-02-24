@@ -1,0 +1,14 @@
+C:\Users\Tomaz\source\repos\ScreenSound V2 (Orientado a Objetos)\ScreenSound V2 (Orientado a Objetos)\bin\Debug\net7.0\ScreenSound V2 (Orientado a Objetos).exe
+C:\Users\Tomaz\source\repos\ScreenSound V2 (Orientado a Objetos)\ScreenSound V2 (Orientado a Objetos)\bin\Debug\net7.0\ScreenSound V2 (Orientado a Objetos).deps.json
+C:\Users\Tomaz\source\repos\ScreenSound V2 (Orientado a Objetos)\ScreenSound V2 (Orientado a Objetos)\bin\Debug\net7.0\ScreenSound V2 (Orientado a Objetos).runtimeconfig.json
+C:\Users\Tomaz\source\repos\ScreenSound V2 (Orientado a Objetos)\ScreenSound V2 (Orientado a Objetos)\bin\Debug\net7.0\ScreenSound V2 (Orientado a Objetos).dll
+C:\Users\Tomaz\source\repos\ScreenSound V2 (Orientado a Objetos)\ScreenSound V2 (Orientado a Objetos)\bin\Debug\net7.0\ScreenSound V2 (Orientado a Objetos).pdb
+C:\Users\Tomaz\source\repos\ScreenSound V2 (Orientado a Objetos)\ScreenSound V2 (Orientado a Objetos)\obj\Debug\net7.0\ScreenSound V2 (Orientado a Objetos).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomaz\source\repos\ScreenSound V2 (Orientado a Objetos)\ScreenSound V2 (Orientado a Objetos)\obj\Debug\net7.0\ScreenSound V2 (Orientado a Objetos).AssemblyInfoInputs.cache
+C:\Users\Tomaz\source\repos\ScreenSound V2 (Orientado a Objetos)\ScreenSound V2 (Orientado a Objetos)\obj\Debug\net7.0\ScreenSound V2 (Orientado a Objetos).AssemblyInfo.cs
+C:\Users\Tomaz\source\repos\ScreenSound V2 (Orientado a Objetos)\ScreenSound V2 (Orientado a Objetos)\obj\Debug\net7.0\ScreenSound V2 (Orientado a Objetos).csproj.CoreCompileInputs.cache
+C:\Users\Tomaz\source\repos\ScreenSound V2 (Orientado a Objetos)\ScreenSound V2 (Orientado a Objetos)\obj\Debug\net7.0\ScreenSound V2 (Orientado a Objetos).dll
+C:\Users\Tomaz\source\repos\ScreenSound V2 (Orientado a Objetos)\ScreenSound V2 (Orientado a Objetos)\obj\Debug\net7.0\refint\ScreenSound V2 (Orientado a Objetos).dll
+C:\Users\Tomaz\source\repos\ScreenSound V2 (Orientado a Objetos)\ScreenSound V2 (Orientado a Objetos)\obj\Debug\net7.0\ScreenSound V2 (Orientado a Objetos).pdb
+C:\Users\Tomaz\source\repos\ScreenSound V2 (Orientado a Objetos)\ScreenSound V2 (Orientado a Objetos)\obj\Debug\net7.0\ScreenSound V2 (Orientado a Objetos).genruntimeconfig.cache
+C:\Users\Tomaz\source\repos\ScreenSound V2 (Orientado a Objetos)\ScreenSound V2 (Orientado a Objetos)\obj\Debug\net7.0\ref\ScreenSound V2 (Orientado a Objetos).dll
