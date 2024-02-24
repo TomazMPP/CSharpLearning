@@ -33,7 +33,7 @@ void ExibirMenu()
         case 1: RegistrarBanda(); break;
             case 2: MostrarBandas(); break;
             case 3: NotasDeBandas(); break;
-            case 4: Console.WriteLine("Você escolheu a opção " + opcaoEscolhida); break;
+            case 4: MediaDeNotas(); break;
             case -1: Console.WriteLine("Tchau :)"); break;
         default: Console.WriteLine("Opção inválida"); break;
     }
@@ -109,4 +109,32 @@ void ExibirTitulo(string titulo)
     Console.Write(asteriscos + "\n");
 }
 
+void MediaDeNotas()
+{
+    // clear V
+    // titulo V
+    // perguntar nome da banda v
+    // consultar se banda existe v
+    // calcular media se sim
+    Console.Clear() ;
+    ExibirTitulo("Média de Notas das Bandas");
+    Console.Write("\nQual banda você gostaria de saber a média de notas: ");
+    String nomeDaBandaMedia = Console.ReadLine()!;
+    if (bandasRegistradas.ContainsKey(nomeDaBandaMedia))
+    {
+
+        List<int> notasDaBanda = bandasRegistradas[nomeDaBandaMedia];
+        Console.WriteLine($"A média da banda {nomeDaBandaMedia} é de {notasDaBanda.Average()}!");
+        Console.WriteLine("\nPara retornar ao menu principal, pressione qualquer tecla");
+        Console.ReadKey();
+        Console.Clear();
+        ExibirMenu();
+
+    } else
+    {
+        Console.WriteLine("Essa banda não existe em nosso banco de dados! Retornando ao Menu...");
+        Thread.Sleep(3000);
+        ExibirMenu() ;
+    }
+}
 ExibirMenu();
