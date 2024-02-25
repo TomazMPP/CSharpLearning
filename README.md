@@ -13,4 +13,4 @@
 | [EstoqueLoja](EstoqueLoja)                   | Dictionary, List |
 | [ScreenSound](ScreenSound)                   |    Dictionary, List                                                   |
 | [ContaBancaria Class (POO)](ContaBancariaClass) |   Public Class, POO                                                 |
-| [ScreenSound V2 (Orientado a Objetos)](ScreenSound%20V2%20(Orientado%20a%20Objetos)) |     Private Class, POO, Methods, Getters & Setters         |
+| [ScreenSound V2 (Orientado a Objetos)](ScreenSound%20V2%20(Orientado%20a%20Objetos)) |     Private Class, POO, Methods, Getters & Setters, Properties, Lambda        |
