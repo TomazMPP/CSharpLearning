@@ -1,0 +1,14 @@
+C:\Users\Tomaz\source\repos\CatalogoJogos\CatalogoJogos\obj\Debug\net7.0\CatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomaz\source\repos\CatalogoJogos\CatalogoJogos\obj\Debug\net7.0\CatalogoJogos.AssemblyInfoInputs.cache
+C:\Users\Tomaz\source\repos\CatalogoJogos\CatalogoJogos\obj\Debug\net7.0\CatalogoJogos.AssemblyInfo.cs
+C:\Users\Tomaz\source\repos\CatalogoJogos\CatalogoJogos\obj\Debug\net7.0\CatalogoJogos.csproj.CoreCompileInputs.cache
+C:\Users\Tomaz\source\repos\CatalogoJogos\CatalogoJogos\bin\Debug\net7.0\CatalogoJogos.exe
+C:\Users\Tomaz\source\repos\CatalogoJogos\CatalogoJogos\bin\Debug\net7.0\CatalogoJogos.deps.json
+C:\Users\Tomaz\source\repos\CatalogoJogos\CatalogoJogos\bin\Debug\net7.0\CatalogoJogos.runtimeconfig.json
+C:\Users\Tomaz\source\repos\CatalogoJogos\CatalogoJogos\bin\Debug\net7.0\CatalogoJogos.dll
+C:\Users\Tomaz\source\repos\CatalogoJogos\CatalogoJogos\bin\Debug\net7.0\CatalogoJogos.pdb
+C:\Users\Tomaz\source\repos\CatalogoJogos\CatalogoJogos\obj\Debug\net7.0\CatalogoJogos.dll
+C:\Users\Tomaz\source\repos\CatalogoJogos\CatalogoJogos\obj\Debug\net7.0\refint\CatalogoJogos.dll
+C:\Users\Tomaz\source\repos\CatalogoJogos\CatalogoJogos\obj\Debug\net7.0\CatalogoJogos.pdb
+C:\Users\Tomaz\source\repos\CatalogoJogos\CatalogoJogos\obj\Debug\net7.0\CatalogoJogos.genruntimeconfig.cache
+C:\Users\Tomaz\source\repos\CatalogoJogos\CatalogoJogos\obj\Debug\net7.0\ref\CatalogoJogos.dll
