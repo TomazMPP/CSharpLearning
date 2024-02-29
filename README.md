@@ -7,12 +7,18 @@
 > C#/.NET Projects Repository that compiles small projects I've developed, as well as those currently in progress, throughout my learning journey. The projects are organized in chronological order, with the earliest ones representing my initial experiences in C#/.NET, reflecting my progress over time. This repository serves as a record of my learning evolution, rather than a collection of high-level projects in themselves.
 
 ### Sumário
-| Projeto                                    | Aprendizado (What I learned)                                           |
+
+| Main Project (Courses)                                  | Aprendizado (What I learned)                                           |
+|--------------------------------------------|-------------------------------------------------------|
+| [ScreenSound V2 (Orientado a Objetos)](ScreenSound%20V2%20(Orientado%20a%20Objetos)) |     Private Class, POO, Methods, Getters & Setters, Properties, Internal Classes, Lambda, Constructors, Initializers       |
+
+| Mini-Projetos/Práticas    (Practice)                               | Aprendizado (What I learned)                                           |
 |--------------------------------------------|-------------------------------------------------------|
 | [Jogo Número Aleatório](JogoNumeroAleatorio) |       Syntax                                                |
 | [EstoqueLoja](EstoqueLoja)                   | Dictionary, List |
 | [ScreenSound](ScreenSound)                   |    Dictionary, List                                                   |
 | [ContaBancaria Class (POO)](ContaBancariaClass) |   Public Class, POO                                                 |
 | [ContaBancaria (POO)](Conta%20Bancária%20POO) |   Getters & Setters, Properties, Methods, Internal Classes                                         |
+| [ContaBancaria (POO) v2 (Constructors)](Conta%20Bancária%20Constructor) |   Constructors                                       |
 | [Estoque de Produtos (POO)](EstoqueDeProdutos) |   Getters & Setters, Properties, Methods, Internal Classes, Lambda                                        |
-| [ScreenSound V2 (Orientado a Objetos)](ScreenSound%20V2%20(Orientado%20a%20Objetos)) |     Private Class, POO, Methods, Getters & Setters, Properties, Lambda        |
+| [Catalogo de Jogos](CatalogoJogos) |   Constructors, List, Internal Classes                                      |
