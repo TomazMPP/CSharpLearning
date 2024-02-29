@@ -1,0 +1,14 @@
+C:\Users\Tomaz\source\repos\Conta Bancária POO\Conta Bancária POO\bin\Debug\net7.0\Conta Bancária POO.exe
+C:\Users\Tomaz\source\repos\Conta Bancária POO\Conta Bancária POO\bin\Debug\net7.0\Conta Bancária POO.deps.json
+C:\Users\Tomaz\source\repos\Conta Bancária POO\Conta Bancária POO\bin\Debug\net7.0\Conta Bancária POO.runtimeconfig.json
+C:\Users\Tomaz\source\repos\Conta Bancária POO\Conta Bancária POO\bin\Debug\net7.0\Conta Bancária POO.dll
+C:\Users\Tomaz\source\repos\Conta Bancária POO\Conta Bancária POO\bin\Debug\net7.0\Conta Bancária POO.pdb
+C:\Users\Tomaz\source\repos\Conta Bancária POO\Conta Bancária POO\obj\Debug\net7.0\Conta Bancária POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomaz\source\repos\Conta Bancária POO\Conta Bancária POO\obj\Debug\net7.0\Conta Bancária POO.AssemblyInfoInputs.cache
+C:\Users\Tomaz\source\repos\Conta Bancária POO\Conta Bancária POO\obj\Debug\net7.0\Conta Bancária POO.AssemblyInfo.cs
+C:\Users\Tomaz\source\repos\Conta Bancária POO\Conta Bancária POO\obj\Debug\net7.0\Conta Bancária POO.csproj.CoreCompileInputs.cache
+C:\Users\Tomaz\source\repos\Conta Bancária POO\Conta Bancária POO\obj\Debug\net7.0\Conta Bancária POO.dll
+C:\Users\Tomaz\source\repos\Conta Bancária POO\Conta Bancária POO\obj\Debug\net7.0\refint\Conta Bancária POO.dll
+C:\Users\Tomaz\source\repos\Conta Bancária POO\Conta Bancária POO\obj\Debug\net7.0\Conta Bancária POO.pdb
+C:\Users\Tomaz\source\repos\Conta Bancária POO\Conta Bancária POO\obj\Debug\net7.0\Conta Bancária POO.genruntimeconfig.cache
+C:\Users\Tomaz\source\repos\Conta Bancária POO\Conta Bancária POO\obj\Debug\net7.0\ref\Conta Bancária POO.dll
