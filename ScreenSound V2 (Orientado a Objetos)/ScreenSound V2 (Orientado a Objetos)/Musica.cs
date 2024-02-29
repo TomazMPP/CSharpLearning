@@ -1,5 +1,6 @@
 ﻿class Musica
 {
+    public Genero Genero { get; set; }
     public string NomeDaMusica { get; set; }
     public string Artista { get; set; }
     public int Duracao { get; set; }
@@ -12,6 +13,7 @@
         Console.WriteLine($"Nome da Música: {NomeDaMusica}");
         Console.WriteLine($"Artista: {Artista}");
         Console.WriteLine($"Duração: {Duracao}");
+        Console.WriteLine($"Gênero: {Genero}");
         if (Disponivel) { Console.WriteLine("Música disponível no Plano."); }
         else
         {
