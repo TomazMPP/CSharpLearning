@@ -1,0 +1,14 @@
+C:\Users\Tomaz\source\repos\Oficina\Oficina\obj\Debug\net7.0\Oficina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomaz\source\repos\Oficina\Oficina\obj\Debug\net7.0\Oficina.AssemblyInfoInputs.cache
+C:\Users\Tomaz\source\repos\Oficina\Oficina\obj\Debug\net7.0\Oficina.AssemblyInfo.cs
+C:\Users\Tomaz\source\repos\Oficina\Oficina\obj\Debug\net7.0\Oficina.csproj.CoreCompileInputs.cache
+C:\Users\Tomaz\source\repos\Oficina\Oficina\bin\Debug\net7.0\Oficina.exe
+C:\Users\Tomaz\source\repos\Oficina\Oficina\bin\Debug\net7.0\Oficina.deps.json
+C:\Users\Tomaz\source\repos\Oficina\Oficina\bin\Debug\net7.0\Oficina.runtimeconfig.json
+C:\Users\Tomaz\source\repos\Oficina\Oficina\bin\Debug\net7.0\Oficina.dll
+C:\Users\Tomaz\source\repos\Oficina\Oficina\bin\Debug\net7.0\Oficina.pdb
+C:\Users\Tomaz\source\repos\Oficina\Oficina\obj\Debug\net7.0\Oficina.dll
+C:\Users\Tomaz\source\repos\Oficina\Oficina\obj\Debug\net7.0\refint\Oficina.dll
+C:\Users\Tomaz\source\repos\Oficina\Oficina\obj\Debug\net7.0\Oficina.pdb
+C:\Users\Tomaz\source\repos\Oficina\Oficina\obj\Debug\net7.0\Oficina.genruntimeconfig.cache
+C:\Users\Tomaz\source\repos\Oficina\Oficina\obj\Debug\net7.0\ref\Oficina.dll

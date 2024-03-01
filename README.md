@@ -6,6 +6,9 @@
 > #### ENG
 > C#/.NET Projects Repository that compiles small projects I've developed, as well as those currently in progress, throughout my learning journey. The projects are organized in chronological order, with the earliest ones representing my initial experiences in C#/.NET, reflecting my progress over time. This repository serves as a record of my learning evolution, rather than a collection of high-level projects in themselves.
 
+> [!IMPORTANT]
+> A grande maioria dos repositórios de Prática possuem um README interno, já que são desafios propostos pelo curso que estou fazendo ou desafios pessoais, nesse README tem o passo a passo de cada coisa que eu fiz no projeto e código final de cada classe. A majority of the Practice repositories have an internal README, as they consist of challenges proposed by the course I'm taking or personal challenges. In this README, there's a step-by-step of everything I did in the project and the final code for each class.
+
 ### Sumário
 
 | Main Project (Courses)                                  | Aprendizado (What I learned)                                           |
@@ -24,3 +27,4 @@
 | [Estoque de Produtos (POO)](EstoqueDeProdutos) |   Getters & Setters, Properties, Methods, Lambda                                        |
 | [Catalogo de Jogos](CatalogoJogos) |   Constructors, List                                    |
 | [Filmes](Filmes) |           Namespaces, Constructors, List                          |
+| [Oficina](Oficina) |           Namespaces, Constructors, List, Methods, Internal Classes                        |
