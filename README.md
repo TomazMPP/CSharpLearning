@@ -10,8 +10,8 @@
 
 | Main Project (Courses)                                  | Aprendizado (What I learned)                                           |
 |--------------------------------------------|-------------------------------------------------------|
-| [ScreenSound V2 (POO)](ScreenSound%20V2%20(Orientado%20a%20Objetos)) |     Private Class, POO, Methods, Getters & Setters, Properties, Internal Classes, Lambda, Constructors, Initializers       |
-| [ScreenSound V3 (POO + AI)](ScreenSound%20V2%20(Orientado%20a%20Objetos)) |       File Management, Namespaces,    |
+| [ScreenSound V2 (POO)](ScreenSound%20V2%20(Orientado%20a%20Objetos)) |     Private Class, POO, Methods, Getters & Setters, Properties, Lambda, Constructors, Initializers       |
+| [ScreenSound V3 (POO + AI)](ScreenSound03) |       File Management, Namespaces, Internal Classes, Static Methods   |
 
 | Mini-Projetos/Práticas    (Practice)                               | Aprendizado (What I learned)                                           |
 |--------------------------------------------|-------------------------------------------------------|
@@ -19,8 +19,8 @@
 | [EstoqueLoja](EstoqueLoja)                   | Dictionary, List |
 | [ScreenSound](ScreenSound)                   |    Dictionary, List                                                   |
 | [ContaBancaria Class (POO)](ContaBancariaClass) |   Public Class, POO                                                 |
-| [ContaBancaria (POO)](Conta%20Bancária%20POO) |   Getters & Setters, Properties, Methods, Internal Classes                                         |
+| [ContaBancaria (POO)](Conta%20Bancária%20POO) |   Getters & Setters, Properties, Methods,                                         |
 | [ContaBancaria (POO) v2 (Constructors)](ContaBancaria%20Constructor/Conta%20Bancária%20POO) |   Constructors                                       |
-| [Estoque de Produtos (POO)](EstoqueDeProdutos) |   Getters & Setters, Properties, Methods, Internal Classes, Lambda                                        |
-| [Catalogo de Jogos](CatalogoJogos) |   Constructors, List, Internal Classes                                      |
-| [Filmes](Filmes) |           Namespaces, Constructors, List, Internal Classes                            |
+| [Estoque de Produtos (POO)](EstoqueDeProdutos) |   Getters & Setters, Properties, Methods, Lambda                                        |
+| [Catalogo de Jogos](CatalogoJogos) |   Constructors, List                                    |
+| [Filmes](Filmes) |           Namespaces, Constructors, List                          |
