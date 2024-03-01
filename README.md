@@ -10,7 +10,8 @@
 
 | Main Project (Courses)                                  | Aprendizado (What I learned)                                           |
 |--------------------------------------------|-------------------------------------------------------|
-| [ScreenSound V2 (Orientado a Objetos)](ScreenSound%20V2%20(Orientado%20a%20Objetos)) |     Private Class, POO, Methods, Getters & Setters, Properties, Internal Classes, Lambda, Constructors, Initializers       |
+| [ScreenSound V2 (POO)](ScreenSound%20V2%20(Orientado%20a%20Objetos)) |     Private Class, POO, Methods, Getters & Setters, Properties, Internal Classes, Lambda, Constructors, Initializers       |
+| [ScreenSound V3 (POO + AI)](ScreenSound%20V2%20(Orientado%20a%20Objetos)) |       File Management, Namespaces,    |
 
 | Mini-Projetos/Práticas    (Practice)                               | Aprendizado (What I learned)                                           |
 |--------------------------------------------|-------------------------------------------------------|
@@ -22,3 +23,4 @@
 | [ContaBancaria (POO) v2 (Constructors)](ContaBancaria%20Constructor/Conta%20Bancária%20POO) |   Constructors                                       |
 | [Estoque de Produtos (POO)](EstoqueDeProdutos) |   Getters & Setters, Properties, Methods, Internal Classes, Lambda                                        |
 | [Catalogo de Jogos](CatalogoJogos) |   Constructors, List, Internal Classes                                      |
+| [Filmes](Filmes) |           Namespaces, Constructors, List, Internal Classes                            |

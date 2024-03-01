@@ -1,0 +1,14 @@
+C:\Users\Tomaz\source\repos\Filmes\Filmes\bin\Debug\net7.0\Filmes.exe
+C:\Users\Tomaz\source\repos\Filmes\Filmes\bin\Debug\net7.0\Filmes.deps.json
+C:\Users\Tomaz\source\repos\Filmes\Filmes\bin\Debug\net7.0\Filmes.runtimeconfig.json
+C:\Users\Tomaz\source\repos\Filmes\Filmes\bin\Debug\net7.0\Filmes.dll
+C:\Users\Tomaz\source\repos\Filmes\Filmes\bin\Debug\net7.0\Filmes.pdb
+C:\Users\Tomaz\source\repos\Filmes\Filmes\obj\Debug\net7.0\Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomaz\source\repos\Filmes\Filmes\obj\Debug\net7.0\Filmes.AssemblyInfoInputs.cache
+C:\Users\Tomaz\source\repos\Filmes\Filmes\obj\Debug\net7.0\Filmes.AssemblyInfo.cs
+C:\Users\Tomaz\source\repos\Filmes\Filmes\obj\Debug\net7.0\Filmes.csproj.CoreCompileInputs.cache
+C:\Users\Tomaz\source\repos\Filmes\Filmes\obj\Debug\net7.0\Filmes.dll
+C:\Users\Tomaz\source\repos\Filmes\Filmes\obj\Debug\net7.0\refint\Filmes.dll
+C:\Users\Tomaz\source\repos\Filmes\Filmes\obj\Debug\net7.0\Filmes.pdb
+C:\Users\Tomaz\source\repos\Filmes\Filmes\obj\Debug\net7.0\Filmes.genruntimeconfig.cache
+C:\Users\Tomaz\source\repos\Filmes\Filmes\obj\Debug\net7.0\ref\Filmes.dll
