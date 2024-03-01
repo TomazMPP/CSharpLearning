@@ -32,3 +32,4 @@
 | [Catalogo de Jogos](CatalogoJogos) |   Constructors, List                                    |
 | [Filmes](Filmes) |           Namespaces, Constructors, List                          |
 | [Oficina](Oficina) |           Namespaces, Constructors, List, Methods, Internal Classes                        |
+| [Calculadora](Calculadora) |          Static Methods                       |
