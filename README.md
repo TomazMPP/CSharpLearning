@@ -20,6 +20,9 @@
 | [ScreenSound V2 (POO)](ScreenSound%20V2%20(Orientado%20a%20Objetos)) |     Private Class, POO, Methods, Getters & Setters, Properties, Lambda, Constructors, Initializers       |
 | [ScreenSound V3 (POO + AI)](ScreenSound03) |       File Management, Namespaces, Internal Classes, Static Methods, Class Heritage, Interfaces   |
 
+> [!TIP]
+> [Desafios Propostos](DesafiosPropostos) - Lista de desafios propostos no curso da Alura e outros. Aqui tem vários README, com a solução de cada um, como dividi o desafio em tasks e fiz cada um. Além da resolução.
+
 | Mini-Projetos/Práticas    (Practice)                               | Aprendizado (What I learned)                                           |
 |--------------------------------------------|-------------------------------------------------------|
 | [Jogo Número Aleatório](JogoNumeroAleatorio) |       Syntax                                                |
