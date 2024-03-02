@@ -18,7 +18,7 @@
 | Main Project (Courses)                                  | Aprendizado (What I learned)                                           |
 |--------------------------------------------|-------------------------------------------------------|
 | [ScreenSound V2 (POO)](ScreenSound%20V2%20(Orientado%20a%20Objetos)) |     Private Class, POO, Methods, Getters & Setters, Properties, Lambda, Constructors, Initializers       |
-| [ScreenSound V3 (POO + AI)](ScreenSound03) |       File Management, Namespaces, Internal Classes, Static Methods, Class Heritage   |
+| [ScreenSound V3 (POO + AI)](ScreenSound03) |       File Management, Namespaces, Internal Classes, Static Methods, Class Heritage, Interfaces   |
 
 | Mini-Projetos/Práticas    (Practice)                               | Aprendizado (What I learned)                                           |
 |--------------------------------------------|-------------------------------------------------------|
