@@ -36,4 +36,4 @@
 | [Filmes](Filmes) |           Namespaces, Constructors, List                          |
 | [Oficina](Oficina) |           Namespaces, Constructors, List, Methods, Internal Classes                        |
 | [Calculadora](Calculadora) |          Static Methods                       |
-| [Geometria](Geometria) |          Abtract Classes, Heritage Classes                       |
+| [Geometria](Geometria) |          Abstract Classes, Heritage Classes                       |
