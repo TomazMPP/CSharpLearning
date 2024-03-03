@@ -41,19 +41,19 @@
 14. ✅ Escrever um programa que funcione como uma calculadora, que pode realizar as 4 operações básicas, além de calcular raiz quadrada e potências. O usuario deve entrar com dois números e um simbolo que represente a operação a ser feita.
 
 ###### Resolução Desafios (API & Derivados):
-25. [✅ Desafio API Games](/Desafios%20Individual/✅%20Desafio%20API%20Games.md)
+25. [✅ Desafio API Games](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20API%20Games.md)
 
-26. [✅ Desafio TRYCATCH](/Desafios%20Individual/✅%20Desafio%20TRYCATCH.md)
+26. [✅ Desafio TRYCATCH](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20TRYCATCH.md)
 
-27. [✅ Desafio TryCatch Inteiros](/Desafios%20Individual/✅%20Desafio%20TryCatch%20Inteiros.md)
+27. [✅ Desafio TryCatch Inteiros](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20TryCatch%20Inteiros.md)
 
-28. [✅ Desafio FilmeAPI](/Desafios%20Individual/✅%20Desafio%20FilmeAPI.md)
+28. [✅ Desafio FilmeAPI](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20FilmeAPI.md)
 
-29. [✅ Desafio PaísAPI](/Desafios%20Individual/✅%20Desafio%20PaísAPI.md)
+29. [✅ Desafio PaísAPI](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Pa%C3%ADsAPI.md)
 
-30. [✅ Desafio CarroAPI](/Desafios%20Individual/✅%20Desafio%20CarroAPI.md)
+30. [✅ Desafio CarroAPI](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20CarroAPI.md)
 
-31. [✅ Desafio LivroAPI](/Desafios%20Individual/✅%20Desafio%20CarroAPI.md)
+31. [✅ Desafio LivroAPI](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LivroAPI.md)
 
 
 ###### Resolução Desafios (Interface):
