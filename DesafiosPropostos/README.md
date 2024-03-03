@@ -1,6 +1,21 @@
 >[!NOTE]
 >Resoluções no final do README!
 
+## Desafios (File creator - JSON):
+38. Criar um programa que permite ao usuário inserir informações de uma pessoa (nome, idade, e e-mail), serializa essas informações em formato JSON e salva em um arquivo.
+39. Criar um programa que lê um arquivo JSON contendo informações de uma pessoa, desserializa essas informações e exibe na tela.
+40. Criar um programa que permite ao usuário inserir informações de várias pessoas, armazena essas informações em uma lista, serializa a lista em formato JSON e salva em um arquivo.
+41. Criar um programa que lê um arquivo JSON contendo informações de várias pessoas, desserializa essas informações em uma lista e exibe na tela.
+42. Criar um programa que lê um arquivo JSON contendo informações de várias pessoas, permite ao usuário inserir uma idade e exibe as pessoas com aquela idade.
+
+## Desafios (Linq):
+32. ✅ Dada uma lista de números, criar uma consulta LINQ para retornar apenas os elementos únicos da lista.
+33. ✅ Dadas duas listas de números, criar uma consulta LINQ para retornar uma lista que contenha apenas os números que estão presentes em ambas as listas
+34. ✅ Dada uma lista de livros com título, autor e ano de publicação, criar uma consulta LINQ para retornar uma lista com os títulos dos livros publicados após o ano 2000, ordenados alfabeticamente.
+35. ✅ Dada uma lista de produtos com nome e preço, criar uma consulta LINQ para calcular o preço médio dos produtos.
+36. ✅ Dada uma lista de inteiros, criar uma consulta LINQ para retornar apenas os números pares.
+37. ✅ Dada uma lista de strings, criar uma consulta LINQ para ordenar as palavras por comprimento e retornar apenas aquelas que têm mais de 3 caracteres.
+
 ## Desafios (API & Derivados):
 25. ✅ Escrever um programa que faça uma requisição para a API de games **CheapShark** e mostre na tela a lista de promoções cadastrada na ferramenta (Você pode utilizar o endpoint: [https://www.cheapshark.com/api/1.0/deals](https://www.cheapshark.com/api/1.0/deals)).
 26. ✅ Escrever um programa que solicite dois números `a` e `b` lidos do teclado e realize a divisão de `a` por `b`. Caso essa operação não seja possível, mostrar uma mensagem no console que deixe claro o erro ocorrido.
@@ -39,6 +54,21 @@
 12. ✅ Modelar o funcionamento de uma oficina automobilistica.
 13. ✅ Criar um programa `Program.cs` e simular o funcionamento do programa.
 14. ✅ Escrever um programa que funcione como uma calculadora, que pode realizar as 4 operações básicas, além de calcular raiz quadrada e potências. O usuario deve entrar com dois números e um simbolo que represente a operação a ser feita.
+
+###### Desafios (File creator - JSON):
+38. [[]]
+39. [[]]
+40. [[]]
+41. [[]]
+42. [[]]
+
+###### Resolução Desafios (Linq):
+32. [✅ Desafio LinqNumeros](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LinqNumeros.md)
+33. [✅ Desafio Numeros Listas](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Numeros%20Listas.md)
+34. [✅ Desafio LinqLivros](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LinqLivros.md)
+35. [✅ Desafio LinqProdutos](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LinqProdutos.md)
+36. [✅ Desafio LinqPares](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LinqPares.md)
+37. [✅ Desafio LinqString](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LinqString.md)
 
 ###### Resolução Desafios (API & Derivados):
 25. [✅ Desafio API Games](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20API%20Games.md)
