@@ -19,7 +19,7 @@
 |--------------------------------------------|-------------------------------------------------------|
 | [ScreenSound V2](ScreenSound%20V2%20(Orientado%20a%20Objetos)) |     Private Class, POO, Methods, Getters & Setters, Properties, Lambda, Constructors, Initializers       |
 | [ScreenSound V3](ScreenSound03) |       File Management, Namespaces, Internal Classes, Static Methods, Class Heritage, Interfaces   |
-| [ScreenSound V4](ScreenSound04) |       HttpClient, Try Catch, Annotations, Deserialization, Linq   |
+| [ScreenSound V4](ScreenSound04) |       HttpClient, Try Catch, Annotations, Deserialization, Linq, Serialization, Anonymous Object, Creating Json with C#  |
 
 
 > [!TIP]
