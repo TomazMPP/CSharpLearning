@@ -1,0 +1,14 @@
+C:\Users\Tomaz\source\repos\PaisAPI\PaisAPI\bin\Debug\net7.0\PaisAPI.exe
+C:\Users\Tomaz\source\repos\PaisAPI\PaisAPI\bin\Debug\net7.0\PaisAPI.deps.json
+C:\Users\Tomaz\source\repos\PaisAPI\PaisAPI\bin\Debug\net7.0\PaisAPI.runtimeconfig.json
+C:\Users\Tomaz\source\repos\PaisAPI\PaisAPI\bin\Debug\net7.0\PaisAPI.dll
+C:\Users\Tomaz\source\repos\PaisAPI\PaisAPI\bin\Debug\net7.0\PaisAPI.pdb
+C:\Users\Tomaz\source\repos\PaisAPI\PaisAPI\obj\Debug\net7.0\PaisAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomaz\source\repos\PaisAPI\PaisAPI\obj\Debug\net7.0\PaisAPI.AssemblyInfoInputs.cache
+C:\Users\Tomaz\source\repos\PaisAPI\PaisAPI\obj\Debug\net7.0\PaisAPI.AssemblyInfo.cs
+C:\Users\Tomaz\source\repos\PaisAPI\PaisAPI\obj\Debug\net7.0\PaisAPI.csproj.CoreCompileInputs.cache
+C:\Users\Tomaz\source\repos\PaisAPI\PaisAPI\obj\Debug\net7.0\PaisAPI.dll
+C:\Users\Tomaz\source\repos\PaisAPI\PaisAPI\obj\Debug\net7.0\refint\PaisAPI.dll
+C:\Users\Tomaz\source\repos\PaisAPI\PaisAPI\obj\Debug\net7.0\PaisAPI.pdb
+C:\Users\Tomaz\source\repos\PaisAPI\PaisAPI\obj\Debug\net7.0\PaisAPI.genruntimeconfig.cache
+C:\Users\Tomaz\source\repos\PaisAPI\PaisAPI\obj\Debug\net7.0\ref\PaisAPI.dll

@@ -1,0 +1,14 @@
+C:\Users\Tomaz\source\repos\APICarro\APICarro\bin\Debug\net7.0\APICarro.exe
+C:\Users\Tomaz\source\repos\APICarro\APICarro\bin\Debug\net7.0\APICarro.deps.json
+C:\Users\Tomaz\source\repos\APICarro\APICarro\bin\Debug\net7.0\APICarro.runtimeconfig.json
+C:\Users\Tomaz\source\repos\APICarro\APICarro\bin\Debug\net7.0\APICarro.dll
+C:\Users\Tomaz\source\repos\APICarro\APICarro\bin\Debug\net7.0\APICarro.pdb
+C:\Users\Tomaz\source\repos\APICarro\APICarro\obj\Debug\net7.0\APICarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomaz\source\repos\APICarro\APICarro\obj\Debug\net7.0\APICarro.AssemblyInfoInputs.cache
+C:\Users\Tomaz\source\repos\APICarro\APICarro\obj\Debug\net7.0\APICarro.AssemblyInfo.cs
+C:\Users\Tomaz\source\repos\APICarro\APICarro\obj\Debug\net7.0\APICarro.csproj.CoreCompileInputs.cache
+C:\Users\Tomaz\source\repos\APICarro\APICarro\obj\Debug\net7.0\APICarro.dll
+C:\Users\Tomaz\source\repos\APICarro\APICarro\obj\Debug\net7.0\refint\APICarro.dll
+C:\Users\Tomaz\source\repos\APICarro\APICarro\obj\Debug\net7.0\APICarro.pdb
+C:\Users\Tomaz\source\repos\APICarro\APICarro\obj\Debug\net7.0\APICarro.genruntimeconfig.cache
+C:\Users\Tomaz\source\repos\APICarro\APICarro\obj\Debug\net7.0\ref\APICarro.dll

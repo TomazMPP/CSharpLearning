@@ -5,10 +5,10 @@
 25. ✅ Escrever um programa que faça uma requisição para a API de games **CheapShark** e mostre na tela a lista de promoções cadastrada na ferramenta (Você pode utilizar o endpoint: [https://www.cheapshark.com/api/1.0/deals](https://www.cheapshark.com/api/1.0/deals)).
 26. ✅ Escrever um programa que solicite dois números `a` e `b` lidos do teclado e realize a divisão de `a` por `b`. Caso essa operação não seja possível, mostrar uma mensagem no console que deixe claro o erro ocorrido.
 27. ✅ Declarar uma lista de inteiros e tente acessar um elemento em um índice inexistente. Tratar a exceção apropriada.
-28. Modelar e desserializar a classe Filme, que pode ser encontrada no [endpoint disponibilizado](https://raw.githubusercontent.com/ArthurOcFernandes/Exerc-cios-C-/curso-4-aula-2/Jsons/TopMovies.json)
-29. Modelar e desserializar a classe Pais, que pode ser encontrada no [endpoint disponibilizado](https://raw.githubusercontent.com/ArthurOcFernandes/Exerc-cios-C-/curso-4-aula-2/Jsons/Paises.json)
-30. Modelar e desserializar a classe Carro, que pode ser encontrada no [endpoint disponibilizado](https://raw.githubusercontent.com/ArthurOcFernandes/Exerc-cios-C-/curso-4-aula-2/Jsons/Carros.json)
-31. Modelar e desserializar a classe Livro, que pode ser encontrada no [endpoint disponibilizado](https://raw.githubusercontent.com/ArthurOcFernandes/Exerc-cios-C-/curso-4-aula-2/Jsons/Livros.json)
+28. ✅ Modelar e desserializar a classe Filme, que pode ser encontrada no [endpoint disponibilizado](https://raw.githubusercontent.com/ArthurOcFernandes/Exerc-cios-C-/curso-4-aula-2/Jsons/TopMovies.json)
+29. ✅ Modelar e desserializar a classe Pais, que pode ser encontrada no [endpoint disponibilizado](https://raw.githubusercontent.com/ArthurOcFernandes/Exerc-cios-C-/curso-4-aula-2/Jsons/Paises.json)
+30. ✅ Modelar e desserializar a classe Carro, que pode ser encontrada no [endpoint disponibilizado](https://raw.githubusercontent.com/ArthurOcFernandes/Exerc-cios-C-/curso-4-aula-2/Jsons/Carros.json)
+31. ✅ Modelar e desserializar a classe Livro, que pode ser encontrada no [endpoint disponibilizado](https://raw.githubusercontent.com/ArthurOcFernandes/Exerc-cios-C-/curso-4-aula-2/Jsons/Livros.json)
 
 ## ✅ Desafios (Interface):
 20. ✅ Criar uma interface chamada IForma que declare métodos para calcular a área e o perímetro de uma forma geométrica. Implemente esta interface em duas classes: Circulo e Retangulo.
@@ -41,13 +41,20 @@
 14. ✅ Escrever um programa que funcione como uma calculadora, que pode realizar as 4 operações básicas, além de calcular raiz quadrada e potências. O usuario deve entrar com dois números e um simbolo que represente a operação a ser feita.
 
 ###### Resolução Desafios (API & Derivados):
-25. [[✅ Desafio API Games]]
-26. [[✅Desafio TRYCATCH]]
-27. [[✅ Desafio TryCatch Inteiros]]
-28. [[Desafio FilmeAPI]]
-29. [[Desafio PaísAPI]]
-30. [[Desafio CarroAPI]]
-31. [[Desafio LivroAPI]]
+25. [✅ Desafio API Games](/Desafios%20Individual/✅%20Desafio%20API%20Games.md)
+
+26. [✅ Desafio TRYCATCH](/Desafios%20Individual/✅%20Desafio%20TRYCATCH.md)
+
+27. [✅ Desafio TryCatch Inteiros](/Desafios%20Individual/✅%20Desafio%20TryCatch%20Inteiros.md)
+
+28. [✅ Desafio FilmeAPI](/Desafios%20Individual/✅%20Desafio%20FilmeAPI.md)
+
+29. [✅ Desafio PaísAPI](/Desafios%20Individual/✅%20Desafio%20PaísAPI.md)
+
+30. [✅ Desafio CarroAPI](/Desafios%20Individual/✅%20Desafio%20CarroAPI.md)
+
+31. [✅ Desafio LivroAPI](/Desafios%20Individual/✅%20Desafio%20CarroAPI.md)
+
 
 ###### Resolução Desafios (Interface):
 

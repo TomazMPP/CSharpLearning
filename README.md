@@ -19,22 +19,28 @@
 |--------------------------------------------|-------------------------------------------------------|
 | [ScreenSound V2](ScreenSound%20V2%20(Orientado%20a%20Objetos)) |     Private Class, POO, Methods, Getters & Setters, Properties, Lambda, Constructors, Initializers       |
 | [ScreenSound V3](ScreenSound03) |       File Management, Namespaces, Internal Classes, Static Methods, Class Heritage, Interfaces   |
-| [ScreenSound V4](ScreenSound04) |       HttpClient, Try Catch, Anotations, Deserialization   |
+| [ScreenSound V4](ScreenSound04) |       HttpClient, Try Catch, Annotations, Deserialization   |
+
 
 > [!TIP]
 > [Desafios Propostos](DesafiosPropostos) - Lista de desafios propostos no curso da Alura e outros. Aqui tem vários README, com a solução de cada um, como dividi o desafio em tasks e fiz cada um. Além da resolução.
 
+
 | Mini-Projetos/Práticas    (Practice)                               | Aprendizado (What I learned)                                           |
 |--------------------------------------------|-------------------------------------------------------|
-| [Jogo Número Aleatório](JogoNumeroAleatorio) |       Syntax                                                |
-| [EstoqueLoja](EstoqueLoja)                   | Dictionary, List |
+| [Jogo Número Aleatório](/Introdução%20a%20C#/JogoNumeroAleatorio/) |       Syntax                                                |
+| [EstoqueLoja](/Introdução%20a%20C#/EstoqueLoja/)                   | Dictionary, List |
 | [ScreenSound](ScreenSound)                   |    Dictionary, List                                                   |
-| [ContaBancaria Class (POO)](ContaBancariaClass) |   Public Class, POO                                                 |
-| [ContaBancaria (POO)](Conta%20Bancária%20POO) |   Getters & Setters, Properties, Methods,                                         |
-| [ContaBancaria (POO) v2 (Constructors)](ContaBancaria%20Constructor/Conta%20Bancária%20POO) |   Constructors                                       |
-| [Estoque de Produtos (POO)](EstoqueDeProdutos) |   Getters & Setters, Properties, Methods, Lambda                                        |
-| [Catalogo de Jogos](CatalogoJogos) |   Constructors, List                                    |
-| [Filmes](Filmes) |           Namespaces, Constructors, List                          |
-| [Oficina](Oficina) |           Namespaces, Constructors, List, Methods, Internal Classes                        |
-| [Calculadora](Calculadora) |          Static Methods                       |
-| [Geometria](Geometria) |          Abstract Classes, Heritage Classes                       |
+| [ContaBancaria Class (POO)](/Introdução%20a%20Orientação%20a%20Objetos/ContaBancariaClass) |   Public Class, POO                                                 |
+| [ContaBancaria (POO)](/Introdução%20a%20Orientação%20a%20Objetos/Conta%20Bancária%20POO) |   Getters & Setters, Properties, Methods,                                         |
+| [ContaBancaria (POO) v2 (Constructors)](/Introdução%20a%20Orientação%20a%20Objetos/ContaBancaria%20Constructor/Conta%20Bancária%20POO) |   Constructors                                       |
+| [Estoque de Produtos (POO)](/Introdução%20a%20Orientação%20a%20Objetos/EstoqueDeProdutos) |   Getters & Setters, Properties, Methods, Lambda                                        |
+| [Catalogo de Jogos](/Introdução%20a%20Orientação%20a%20Objetos/CatalogoJogos/) |   Constructors, List                                    |
+| [Filmes](/Namespaces,%20Heritage,%20Interfaces/Filmes) |           Namespaces, Constructors, List                          |
+| [Oficina](/Namespaces,%20Heritage,%20Interfaces/Oficina) |           Namespaces, Constructors, List, Methods, Internal Classes                        |
+| [Calculadora](/Namespaces,%20Heritage,%20Interfaces/Calculadora) |          Static Methods                       |
+| [Geometria](/Namespaces,%20Heritage,%20Interfaces/Geometria/) |          Abstract Classes, Heritage Classes                       |
+| [Filmes API](/API%20&%20Derivados/FilmeAPI/) |          API Request (HttpClient), Try Catch, Annotations, Deserialization                       |
+| [País API](/API%20&%20Derivados/PaisAPI/) |          API Request (HttpClient), Try Catch, Annotations, Deserialization                       |
+| [Carro API](/API%20&%20Derivados/APICarro//) |          API Request (HttpClient), Try Catch, Annotations, Deserialization                       |
+| [Livro API](/API%20&%20Derivados/API%20Livro/) |          API Request (HttpClient), Try Catch, Annotations, Deserialization                       |

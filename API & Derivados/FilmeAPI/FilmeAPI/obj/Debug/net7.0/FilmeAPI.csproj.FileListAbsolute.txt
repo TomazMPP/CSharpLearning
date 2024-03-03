@@ -1,0 +1,14 @@
+C:\Users\Tomaz\source\repos\FilmeAPI\FilmeAPI\bin\Debug\net7.0\FilmeAPI.exe
+C:\Users\Tomaz\source\repos\FilmeAPI\FilmeAPI\bin\Debug\net7.0\FilmeAPI.deps.json
+C:\Users\Tomaz\source\repos\FilmeAPI\FilmeAPI\bin\Debug\net7.0\FilmeAPI.runtimeconfig.json
+C:\Users\Tomaz\source\repos\FilmeAPI\FilmeAPI\bin\Debug\net7.0\FilmeAPI.dll
+C:\Users\Tomaz\source\repos\FilmeAPI\FilmeAPI\bin\Debug\net7.0\FilmeAPI.pdb
+C:\Users\Tomaz\source\repos\FilmeAPI\FilmeAPI\obj\Debug\net7.0\FilmeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomaz\source\repos\FilmeAPI\FilmeAPI\obj\Debug\net7.0\FilmeAPI.AssemblyInfoInputs.cache
+C:\Users\Tomaz\source\repos\FilmeAPI\FilmeAPI\obj\Debug\net7.0\FilmeAPI.AssemblyInfo.cs
+C:\Users\Tomaz\source\repos\FilmeAPI\FilmeAPI\obj\Debug\net7.0\FilmeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Tomaz\source\repos\FilmeAPI\FilmeAPI\obj\Debug\net7.0\FilmeAPI.dll
+C:\Users\Tomaz\source\repos\FilmeAPI\FilmeAPI\obj\Debug\net7.0\refint\FilmeAPI.dll
+C:\Users\Tomaz\source\repos\FilmeAPI\FilmeAPI\obj\Debug\net7.0\FilmeAPI.pdb
+C:\Users\Tomaz\source\repos\FilmeAPI\FilmeAPI\obj\Debug\net7.0\FilmeAPI.genruntimeconfig.cache
+C:\Users\Tomaz\source\repos\FilmeAPI\FilmeAPI\obj\Debug\net7.0\ref\FilmeAPI.dll
