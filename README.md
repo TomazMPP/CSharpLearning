@@ -23,24 +23,25 @@
 
 
 > [!TIP]
-> [Desafios Propostos](DesafiosPropostos) - Lista de desafios propostos no curso da Alura e outros. Aqui tem vários README, com a solução de cada um, como dividi o desafio em tasks e fiz cada um. Além da resolução.
+> [Desafios Propostos](/00.%20DesafiosPropostos/) - Lista de desafios propostos no curso da Alura e outros. Aqui tem vários README, com a solução de cada um, como dividi o desafio em tasks e fiz cada um.
 
 
 | Mini-Projetos/Práticas    (Practice)                               | Aprendizado (What I learned)                                           |
 |--------------------------------------------|-------------------------------------------------------|
-| [Jogo Número Aleatório](/Introdução%20a%20C#/JogoNumeroAleatorio/) |       Syntax                                                |
-| [EstoqueLoja](/Introdução%20a%20C#/EstoqueLoja/)                   | Dictionary, List |
+| [Jogo Número Aleatório](/1.%20Introdução%20a%20C#/JogoNumeroAleatorio/) |       Syntax                                                |
+| [EstoqueLoja](/1.%20Introdução%20a%20C#/EstoqueLoja/)                   | Dictionary, List |
 | [ScreenSound](ScreenSound)                   |    Dictionary, List                                                   |
-| [ContaBancaria Class (POO)](/Introdução%20a%20Orientação%20a%20Objetos/ContaBancariaClass) |   Public Class, POO                                                 |
-| [ContaBancaria (POO)](/Introdução%20a%20Orientação%20a%20Objetos/Conta%20Bancária%20POO) |   Getters & Setters, Properties, Methods,                                         |
-| [ContaBancaria (POO) v2 (Constructors)](/Introdução%20a%20Orientação%20a%20Objetos/ContaBancaria%20Constructor/Conta%20Bancária%20POO) |   Constructors                                       |
-| [Estoque de Produtos (POO)](/Introdução%20a%20Orientação%20a%20Objetos/EstoqueDeProdutos) |   Getters & Setters, Properties, Methods, Lambda                                        |
-| [Catalogo de Jogos](/Introdução%20a%20Orientação%20a%20Objetos/CatalogoJogos/) |   Constructors, List                                    |
-| [Filmes](/Namespaces,%20Heritage,%20Interfaces/Filmes) |           Namespaces, Constructors, List                          |
-| [Oficina](/Namespaces,%20Heritage,%20Interfaces/Oficina) |           Namespaces, Constructors, List, Methods, Internal Classes                        |
-| [Calculadora](/Namespaces,%20Heritage,%20Interfaces/Calculadora) |          Static Methods                       |
-| [Geometria](/Namespaces,%20Heritage,%20Interfaces/Geometria/) |          Abstract Classes, Heritage Classes                       |
-| [Filmes API](/API%20&%20Derivados/FilmeAPI/) |          API Request (HttpClient), Try Catch, Annotations, Deserialization                       |
-| [País API](/API%20&%20Derivados/PaisAPI/) |          API Request (HttpClient), Try Catch, Annotations, Deserialization                       |
-| [Carro API](/API%20&%20Derivados/APICarro//) |          API Request (HttpClient), Try Catch, Annotations, Deserialization                       |
-| [Livro API](/API%20&%20Derivados/API%20Livro/) |          API Request (HttpClient), Try Catch, Annotations, Deserialization                       |
+| [ContaBancaria Class (POO)](/2.%20Introdução%20a%20Orientação%20a%20Objetos/ContaBancariaClass) |   Public Class, POO                                                 |
+| [ContaBancaria (POO)](/I2.%20Introdução%20a%20Orientação%20a%20Objetos/Conta%20Bancária%20POO) |   Getters & Setters, Properties, Methods,                                         |
+| [ContaBancaria (POO) v2 (Constructors)](/2.%20Introdução%20a%20Orientação%20a%20Objetos/ContaBancaria%20Constructor/Conta%20Bancária%20POO) |   Constructors                                       |
+| [Estoque de Produtos (POO)](/2.%20Introdução%20a%20Orientação%20a%20Objetos/EstoqueDeProdutos) |   Getters & Setters, Properties, Methods, Lambda                                        |
+| [Catalogo de Jogos](/2.%20Introdução%20a%20Orientação%20a%20Objetos/CatalogoJogos/) |   Constructors, List                                    |
+| [Filmes](/3.%20Namespaces,%20Heritage,%20Interfaces/Filmes) |           Namespaces, Constructors, List                          |
+| [Oficina](/3.%20Namespaces,%20Heritage,%20Interfaces/Oficina) |           Namespaces, Constructors, List, Methods, Internal Classes                        |
+| [Calculadora](/3.%20Namespaces,%20Heritage,%20Interfaces/Calculadora/) |          Static Methods                       |
+| [Geometria](/3.%20Namespaces,%20Heritage,%20Interfaces/Geometria/) |          Abstract Classes, Heritage Classes                       |
+| [Filmes](/4.%20Consumo%20de%20Endpoint/FilmeAPI/) |          API Request (HttpClient), Try Catch, Annotations, Deserialization                       |
+| [País](/4.%20Consumo%20de%20Endpoint/PaisAPI/) |          API Request (HttpClient), Try Catch, Annotations, Deserialization                       |
+| [Carro](/4.%20Consumo%20de%20Endpoint/APICarro//) |          API Request (HttpClient), Try Catch, Annotations, Deserialization                       |
+| [Livro](/4.%20Consumo%20de%20Endpoint/API%20Livro/) |          API Request (HttpClient), Try Catch, Annotations, Deserialization                       |
+| [Registro + Puxar Pessoas JSON](/5.%20Linq,%20Desserializar%20&%20Serializar/✅%20Desafio%20SerialPessoas.md) |          Deserialization & Serialization, File                    |
