@@ -90,10 +90,10 @@
 
 ###### Resolução Desafios (Geral - primeiros):
 1-2. [✅ Desafio Conta Titular POO](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Conta%20Titular%20POO.md)
-3. [✅ Desafio Estoque POO](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Estoque%20POO.md)
-4. [✅ Desafio Escola](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Escola.md)
-5. [✅ Desafio Catalogo Jogos](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Catalogo%20Jogos.md)
-6. [✅  Aumentar Aplicação](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20%20Aumentar%20Aplica%C3%A7%C3%A3o.md)
+<br>3. [✅ Desafio Estoque POO](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Estoque%20POO.md)
+<br>4. [✅ Desafio Escola](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Escola.md)
+<br>5. [✅ Desafio Catalogo Jogos](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Catalogo%20Jogos.md)
+<br>6. [✅  Aumentar Aplicação](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20%20Aumentar%20Aplica%C3%A7%C3%A3o.md)
 <br>7-8-9-10. [✅ Desafio Filmes](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Filmes.md)
 <br>11.  [✅ DesafIo Petshop](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20DesafIo%20Petshop.md)
 <br>12-13. [✅ Desafio Oficina](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Oficina.md)
