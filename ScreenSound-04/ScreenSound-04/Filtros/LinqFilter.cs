@@ -31,4 +31,13 @@ internal class LinqFilter
 
         foreach (var musica in musicasDeArtista) { Console.WriteLine("- " + musica); }
     }
+
+    public static void FiltrarMusicasPorKey(List<Musica> musicas, string key)
+    { 
+        var musicaPorKey = musicas.Where(musica => musica.KeyConvertida().Equals(key)).Select(musica => musica.Nome).Distinct().ToList();
+
+        Console.WriteLine($"Exibindo as musicas por key {key}");
+
+        foreach (var musica in musicaPorKey) { Console.WriteLine("- " + musica); }
+    }
 }

@@ -56,7 +56,7 @@
 14. ✅ Escrever um programa que funcione como uma calculadora, que pode realizar as 4 operações básicas, além de calcular raiz quadrada e potências. O usuario deve entrar com dois números e um simbolo que represente a operação a ser feita.
 
 ###### Desafios (Serialization + File JSON):
-<br>38-39. [✅ Desafio Serial + DesPessoa](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Serial%20+%20DesPessoa.md)
+38-39. [✅ Desafio Serial + DesPessoa](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Serial%20+%20DesPessoa.md)
 <br>40-41-42. [✅ Desafio SerialPessoas](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20SerialPessoas.md)
 
 ###### Resolução Desafios (Linq):
