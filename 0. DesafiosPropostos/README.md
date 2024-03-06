@@ -1,12 +1,16 @@
 >[!NOTE]
 >Resoluções no final do README!
 
+## Desafios (Arrays e Coleções):
+44. ✅  Método que calcula a média de um Array passado por parâmetro. Contrataram você como o novo desenvolvedor da equipe da Esther, e você ficou responsável de iniciar a codificação do módulo de estatística da aplicação, iniciando o desenvolvimento da função que irá calcular a média de uma amostra. Essa amostra será um vetor de doubles que será o parâmetro de entrada do seu método.
+
 ## Desafios (Serialization + File JSON):
 38. ✅ Criar um programa que permite ao usuário inserir informações de uma pessoa (nome, idade, e e-mail), serializa essas informações em formato JSON e salva em um arquivo.
 39. ✅ Criar um programa que lê um arquivo JSON contendo informações de uma pessoa, desserializa essas informações e exibe na tela.
 40. ✅ Criar um programa que permite ao usuário inserir informações de várias pessoas, armazena essas informações em uma lista, serializa a lista em formato JSON e salva em um arquivo.
 41. ✅ Criar um programa que lê um arquivo JSON contendo informações de várias pessoas, desserializa essas informações em uma lista e exibe na tela.
 42. ✅ Criar um programa que lê um arquivo JSON contendo informações de várias pessoas, permite ao usuário inserir uma idade e exibe as pessoas com aquela idade.
+43. [✅ Aumentar Aplicação V2]
 
 ## Desafios (Linq):
 32. ✅ Dada uma lista de números, criar uma consulta LINQ para retornar apenas os elementos únicos da lista.
@@ -45,7 +49,7 @@
 3. ✅ Desenvolver uma classe que represente um estoque de produtos, e que tenha as funcionalidades de adicionar novos produtos, e exibir todos os produtos no estoque.
 4. ✅ Modelar o sistema de uma escola. Crie classes para Aluno, Professor e Disciplina. A classe Aluno deve ter informações como nome, idade e notas. A classe Professor deve ter informações sobre nome e disciplinas lecionadas. A classe Disciplina deve armazenar o nome da disciplina e a lista de alunos matriculados.
 5. ✅ Desenvolver uma classe que representa um catálogo de jogos, com uma lista de Jogos e métodos para manipular essa lista, bem como um construtor que faça sua inicialização.
-6. [[✅  Aumentar Aplicação]]
+6. [✅  Aumentar Aplicação]
 7. ✅ Criar uma classe que representa um filme, com dados como seu titulo, duração e elenco. Após isso, colocá-la no namespace **Alura.Filmes**.
 8. ✅ Criar um programa `Program.cs`, instanciar seus 5 filmes favoritos, guardá-los em uma lista e mostrar as suas informações no console.
 9. ✅ Criar uma classe `Artista`, que representa uma pessoa que atua em filmes, no namespace `Alura.Filmes`. A classe deve conter atributos como o nome, idade e uma lista de filmes onde o artista atuou.
@@ -54,6 +58,9 @@
 12. ✅ Modelar o funcionamento de uma oficina automobilistica.
 13. ✅ Criar um programa `Program.cs` e simular o funcionamento do programa.
 14. ✅ Escrever um programa que funcione como uma calculadora, que pode realizar as 4 operações básicas, além de calcular raiz quadrada e potências. O usuario deve entrar com dois números e um simbolo que represente a operação a ser feita.
+
+###### Desafios (Arrays e coleções):
+44. [✅  Desafio Array Media](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Array%20+%20Media.md)
 
 ###### Desafios (Serialization + File JSON):
 38-39. [✅ Desafio Serial + DesPessoa](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Serial%20+%20DesPessoa.md)
