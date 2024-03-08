@@ -45,3 +45,5 @@
 | [Carro](/4.%20Consumo%20de%20Endpoint/APICarro//) |          API Request (HttpClient), Try Catch, Annotations, Deserialization                       |
 | [Livro](/4.%20Consumo%20de%20Endpoint/API%20Livro/) |          API Request (HttpClient), Try Catch, Annotations, Deserialization                       |
 | [Registro + Puxar Pessoas JSON](/5.%20Linq,%20Desserializar%20&%20Serializar/✅%20Desafio%20SerialPessoas.md) |          Deserialization & Serialization, File                    |
+
+![](https://dkrn4sk0rn31v.cloudfront.net/uploads/2022/05/como-instalar-o-csharp-e-nosso-primeiro-exemplo.png#vitrinedev)
