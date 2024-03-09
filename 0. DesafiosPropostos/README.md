@@ -60,48 +60,48 @@
 14. ✅ Escrever um programa que funcione como uma calculadora, que pode realizar as 4 operações básicas, além de calcular raiz quadrada e potências. O usuario deve entrar com dois números e um simbolo que represente a operação a ser feita.
 
 ###### Desafios (Arrays e coleções):
-44. [✅  Desafio Array Media](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Array%20+%20Media.md)
+44. [✅  Desafio Array Media](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Array%20+%20Media.md)
 
 ###### Desafios (Serialization + File JSON):
-38-39. [✅ Desafio Serial + DesPessoa](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Serial%20+%20DesPessoa.md)
-<br>40-41-42. [✅ Desafio SerialPessoas](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20SerialPessoas.md)
+38-39. [✅ Desafio Serial + DesPessoa](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Serial%20+%20DesPessoa.md)
+<br>40-41-42. [✅ Desafio SerialPessoas](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20SerialPessoas.md)
 
 ###### Resolução Desafios (Linq):
-32. [✅ Desafio LinqNumeros](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LinqNumeros.md)
-33. [✅ Desafio Numeros Listas](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Numeros%20Listas.md)
-34. [✅ Desafio LinqLivros](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LinqLivros.md)
-35. [✅ Desafio LinqProdutos](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LinqProdutos.md)
-36. [✅ Desafio LinqPares](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LinqPares.md)
-37. [✅ Desafio LinqString](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LinqString.md)
+32. [✅ Desafio LinqNumeros](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LinqNumeros.md)
+33. [✅ Desafio Numeros Listas](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Numeros%20Listas.md)
+34. [✅ Desafio LinqLivros](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LinqLivros.md)
+35. [✅ Desafio LinqProdutos](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LinqProdutos.md)
+36. [✅ Desafio LinqPares](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LinqPares.md)
+37. [✅ Desafio LinqString](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LinqString.md)
 
 ###### Resolução Desafios (API & Derivados):
-25. [✅ Desafio API Games](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20API%20Games.md)
-26. [✅ Desafio TRYCATCH](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20TRYCATCH.md)
-27. [✅ Desafio TryCatch Inteiros](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20TryCatch%20Inteiros.md)
-28. [✅ Desafio FilmeAPI](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20FilmeAPI.md)
-29. [✅ Desafio PaísAPI](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Pa%C3%ADsAPI.md)
-30. [✅ Desafio CarroAPI](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20CarroAPI.md)
-31. [✅ Desafio LivroAPI](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LivroAPI.md)
+25. [✅ Desafio API Games](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20API%20Games.md)
+26. [✅ Desafio TRYCATCH](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20TRYCATCH.md)
+27. [✅ Desafio TryCatch Inteiros](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20TryCatch%20Inteiros.md)
+28. [✅ Desafio FilmeAPI](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20FilmeAPI.md)
+29. [✅ Desafio PaísAPI](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Pa%C3%ADsAPI.md)
+30. [✅ Desafio CarroAPI](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20CarroAPI.md)
+31. [✅ Desafio LivroAPI](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20LivroAPI.md)
 
 
 ###### Resolução Desafios (Interface):
-22. [✅ Desafio Interface Pagamento](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Interface%20Pagamento.md)
-23. [✅ Desafio Notificação](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Notificação.md)
-24. [✅ Desafio Armazenamento](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Armazenamento.md)
+22. [✅ Desafio Interface Pagamento](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Interface%20Pagamento.md)
+23. [✅ Desafio Notificação](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Notificação.md)
+24. [✅ Desafio Armazenamento](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Armazenamento.md)
 
 ###### Resolução Desafios (Hierarquia):
-15. [✅ Desafio Geometria](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Geometria.md)
-16. [✅ Desafio Empresa](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Empresa.md)
-17. [✅ Desafio Conta Bancaria](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Conta%20Bancaria.md)
-18. [✅ Desafio Hierarquia Animais](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Hierarquia%20Animais.md)
+15. [✅ Desafio Geometria](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Geometria.md)
+16. [✅ Desafio Empresa](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Empresa.md)
+17. [✅ Desafio Conta Bancaria](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Conta%20Bancaria.md)
+18. [✅ Desafio Hierarquia Animais](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Hierarquia%20Animais.md)
 
 ###### Resolução Desafios (Geral - primeiros):
-1-2. [✅ Desafio Conta Titular POO](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Conta%20Titular%20POO.md)
-<br>3. [✅ Desafio Estoque POO](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Estoque%20POO.md)
-<br>4. [✅ Desafio Escola](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Escola.md)
-<br>5. [✅ Desafio Catalogo Jogos](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Catalogo%20Jogos.md)
-<br>6. [✅  Aumentar Aplicação](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20%20Aumentar%20Aplica%C3%A7%C3%A3o.md)
-<br>7-8-9-10. [✅ Desafio Filmes](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Filmes.md)
-<br>11.  [✅ DesafIo Petshop](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20DesafIo%20Petshop.md)
-<br>12-13. [✅ Desafio Oficina](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Oficina.md)
-<br>14. [✅ Desafio Calculadora](https://github.com/TomazMPP/CSharpLearning/blob/main/DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Calculadora.md)
+1-2. [✅ Desafio Conta Titular POO](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Conta%20Titular%20POO.md)
+<br>3. [✅ Desafio Estoque POO](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Estoque%20POO.md)
+<br>4. [✅ Desafio Escola](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Escola.md)
+<br>5. [✅ Desafio Catalogo Jogos](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Catalogo%20Jogos.md)
+<br>6. [✅  Aumentar Aplicação](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20%20Aumentar%20Aplica%C3%A7%C3%A3o.md)
+<br>7-8-9-10. [✅ Desafio Filmes](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Filmes.md)
+<br>11.  [✅ DesafIo Petshop](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20DesafIo%20Petshop.md)
+<br>12-13. [✅ Desafio Oficina](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Oficina.md)
+<br>14. [✅ Desafio Calculadora](https://github.com/TomazMPP/CSharpLearning/blob/main/0.%20DesafiosPropostos/Desafios%20Individual/%E2%9C%85%20Desafio%20Calculadora.md)
