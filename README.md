@@ -22,6 +22,7 @@
 | [ScreenSound V4](ScreenSound%20V4) |       HttpClient, Try Catch, Annotations, Deserialization, Linq, Serialization, Anonymous Object, Creating Json with C#  |
 | [ScreenSound V5](ScreenSound%20V5) |       ADO.NET, SQLServer, Data Access Layer (DAL) Pattern, Entity Framework, Generics, Func, Migrations, Proxies |
 | [ScreenSound V6](ScreenSound%20V6) |       Minimal API, API Web (ASP.ENT Core), Swagger, Record, DTO Pattern, Azure |
+| [ScreenSound V7](ScreenSound%20V7) |       Blazor, MudBlazor |
 
     > [!TIP]
 > [Desafios Propostos](/0.%20DesafiosPropostos/) - Lista de desafios propostos no curso da Alura e outros. Aqui tem vários README, com a solução de cada um, como dividi o desafio em tasks e fiz cada um.

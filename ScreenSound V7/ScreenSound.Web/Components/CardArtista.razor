@@ -1,0 +1,24 @@
+﻿<MudCard>
+    <MudCardMedia Image="images/cardArtista.png"></MudCardMedia>
+    <MudCardHeader>
+        <CardHeaderContent>
+            <MudText Typo="Typo.h6">@Artista!.Nome</MudText>
+        </CardHeaderContent>
+    </MudCardHeader>
+    <MudCardContent>
+        <MudText Typo="Typo.body2">@Artista!.Bio</MudText>
+    </MudCardContent>
+</MudCard>
+
+@code {
+    [Parameter]
+    public ArtistaResponse? Artista { get; set; }
+
+}
+
+<style>
+    .mud-card {
+        color: white;
+        background-color: #373740;
+    }
+</style>

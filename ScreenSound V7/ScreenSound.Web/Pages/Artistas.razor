@@ -1,0 +1,34 @@
+﻿@page "/Artistas"
+
+
+@inject ArtistaAPI artistaAPI
+<h3>Artistas</h3>
+@if(artistas is not null)
+{
+    <MudGrid>
+        @foreach (var artista in artistas)
+        {
+            <MudItem xs="3">
+            <CardArtista Artista="artista"/>
+            </MudItem>
+        }
+    </MudGrid>
+}
+
+
+@code {
+    private ICollection<ArtistaResponse>? artistas;
+
+    protected override async Task OnInitializedAsync()
+    {
+        artistas = await artistaAPI.GetArtistasAsync();
+    }
+}
+
+<style>
+    body {
+    background: linear-gradient(180deg, #96F 0%, #000 100%) !important;
+    margin-top: 64px;
+    height: 100vh;
+    }
+</style>
