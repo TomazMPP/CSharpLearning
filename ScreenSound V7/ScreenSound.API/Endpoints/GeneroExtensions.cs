@@ -58,6 +58,6 @@ public static class GeneroExtensions
 
     private static GeneroResponse EntityToResponse(Genero genero)
     {
-        return new GeneroResponse(genero.Id,genero.Nome!, genero.Descricao!);
+        return new GeneroResponse(genero.Id, genero.Nome!, genero.Descricao!);
     }
 }
