@@ -24,7 +24,7 @@
 | [ScreenSound V6](ScreenSound%20V6) |       Minimal API, API Web (ASP.ENT Core), Swagger, Record, DTO Pattern, Azure, CRUD |
 | [ScreenSound V7](ScreenSound%20V7) |       Blazor, MudBlazor, records,  |
 
-    > [!TIP]
+> [!TIP]
 > [Desafios Propostos](/0.%20DesafiosPropostos/) - Lista de desafios propostos no curso da Alura e outros. Aqui tem vários README, com a solução de cada um, como dividi o desafio em tasks e fiz cada um.
 
 
